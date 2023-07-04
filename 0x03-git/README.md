@@ -1,1 +1,2 @@
-first git projoct
+first git project
+editing this readme
